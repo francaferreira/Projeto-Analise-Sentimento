@@ -3,3 +3,4 @@ AnaliseDeSentimentos.csv filter=lfs diff=lfs merge=lfs -text
 imdb-reviews-pt-br.csv filter=lfs diff=lfs merge=lfs -text
 imdb-reviews-pt-br/ filter=lfs diff=lfs merge=lfs -text
 AnaliseDeSentimentos/ filter=lfs diff=lfs merge=lfs -text
+.ipynb_checkpoints/imdb-reviews-pt-br-checkpoint.csv filter=lfs diff=lfs merge=lfs -text
